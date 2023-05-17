@@ -9,11 +9,6 @@
 
 Splich, because it can split or stitch, is a simple file splitting tool written in python that can split a file into parts, and stitch them back together.
 
-**Table of Contents**
-- [Features](#Features "Features")
-- [Requirements](#Requirements "Requirements")
-- [License](#LICENSE "License")
-
 ## Features
 - Split into specific number of parts
 - Split into parts of specific size
