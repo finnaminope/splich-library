@@ -215,3 +215,7 @@ def _generate_stitch_config(filename, hashfile):
             os.remove(stitch_config_path)
         return False
     return True
+
+
+def _plog(text, listin):
+    
